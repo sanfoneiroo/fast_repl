@@ -5,7 +5,7 @@ import time
 import network
 import ntptime
 
-""login de acesso ao fast-repl
+"""login de acesso ao fast-repl
 travado = True
 senha = "admin"
 def verificar_senha():
@@ -19,7 +19,7 @@ def verificar_senha():
                 print("senha inválida")
         except:
             machine.reset()
-"""        
+"""
 
 
 #painel
