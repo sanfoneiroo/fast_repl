@@ -19,11 +19,11 @@ def verificar_senha():
                 print("senha inválida")
         except:
             machine.reset()
+verificar_senha()
 """
 
 
 #painel
-verificar_senha()
 print("\n")
 print("-----bem vindo ao fast-repl esp32----")
 print("--------------------------------")
